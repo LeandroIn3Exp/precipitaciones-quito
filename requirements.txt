@@ -1,0 +1,8 @@
+playwright
+pandas
+openpyxl
+scikit-learn
+xgboost
+numpy
+matplotlib
+seaborn
