@@ -6,3 +6,6 @@ xgboost
 numpy
 matplotlib
 seaborn
+joblib
+fastapi
+uvicorn
